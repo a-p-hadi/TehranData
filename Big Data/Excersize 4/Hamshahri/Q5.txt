@@ -1,0 +1,28 @@
+1- remove Stopwords
+2- 3-gram + count
+3- return top(30) sorted based on total count
+
+
+		Inverted Index
+		word||				News Name
+		====================================
+		q w e	||	N1(2)	N2(1)
+		w e	e   ||  N1(1)
+		e q	e   ||  N1(1)
+		r y	e   ||	N1(3)		N3(10)	N34(20)
+		y o	e   ||	N56(11)		N67(2)	N99(7)
+		=====================================
+		
+		q w	e||	3
+		w e	e||  1
+		e q	e||  1
+		r y	e||	33
+		y o	e||	20
+		========================
+		top(30) ==> sort based total count
+		r y	e||	33
+		y o	e||	20
+		q w	e||	3
+		
+		
+		

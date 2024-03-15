@@ -1,0 +1,15 @@
+1-gram
+
+		Inverted Index
+		word: String
+		news_items: ["N1:4"]
+		word||				News Name
+		====================================
+		q	||	N1(3)		N2(1)		N3(1)		N4(1)
+		w   ||	N1(2)		N2(2)		N3(4)		N4(1)
+		e	||	N1(1)
+		t	||  N2(1)		N3(1)
+		r	||	N2(1)		N4(3)
+		a	||  N2
+		z	||  N2
+		x	||  N2		N3

@@ -1,0 +1,8 @@
+3-gram
+
+		Inverted Index
+		word||				News Name
+		====================================
+		q w e||	N1(1)
+		w e q|| N1(1)
+		e q w||	N1(1)
