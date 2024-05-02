@@ -1,0 +1,15 @@
+MLPRegressor: -250621045705.326
+{'alpha': 21.764376542113336, 'hidden_layer_sizes': (20, 30), 'learning_rate': 'constant'}
+
+XGBRegressor: -246351546571.37396
+{'alpha': 0.010028626936762168, 'colsample_bytree': 0.7, 'gamma': 0, 'learning_rate': 0.01, 'max_depth': 9, 'n_estimators': 400, 'subsample': 0.5}
+
+XGBRegressor: -19805633290.40709
+{'xgbregressor__alpha': 0.00760027932694573, 'xgbregressor__colsample_bytree': 0.4, 'xgbregressor__gamma': 0.45, 'xgbregressor__learning_rate': 0.01, 'xgbregressor__max_depth': 9, 'xgbregressor__n_estimators': 900, 'xgbregressor__subsample': 0.9}
+
+MLPRegressor: -64563364355.78615
+{'alpha': 0.00019760600678623522, 'hidden_layer_sizes': (55, 70), 'learning_rate': 'constant'}
+
+
+-36657485000.39235
+{'alpha': 6.3375391597940345, 'hidden_layer_sizes': (55, 70), 'learning_rate': 'constant'}
